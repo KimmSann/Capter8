@@ -1,7 +1,4 @@
-package overiide;
-
-import override.Customer;
-import override.VIPCustomer;
+package override;
 
 /* 
  * 부모클래스로 형변환하고 재정의된 메소드 호출하기
